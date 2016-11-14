@@ -12,6 +12,7 @@ What I find fascinating about this topic is how easy it is to develop a toxic ba
 Those questions will be answered in today's post.
 
 -------------------------------------------------
+
 ### Calling things by their names: Definitions
 
 According to [Merriam-Webster][1], a habit is
@@ -25,5 +26,5 @@ By looking at the webster definition more closely, we can see that a behavior ca
 
 #### _References_
 
-[1]: www.merriam-webster.com/dictionary/habit
+[1]: http://www.merriam-webster.com/dictionary/habit
 
