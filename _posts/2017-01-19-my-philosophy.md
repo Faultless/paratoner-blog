@@ -11,12 +11,12 @@ I'm having a hard time differenciating between **what i like as a hobby**, and *
 
 To kick off, let's start by listing all of the things that could qualify as a hobby of mine:
 
-1 - Working out
-2 - Sports
-3 - EDM Production
-4 - Pixel Art
-5 - Game Development
-6 - Japanese culture
+- Working out
+- Sports
+- EDM Production
+- Pixel Art
+- Game Development
+- Japanese culture
 
 ### Working out
 
