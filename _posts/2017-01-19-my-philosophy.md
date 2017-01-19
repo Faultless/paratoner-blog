@@ -30,3 +30,15 @@ Through the course of my life-changing year, I have picked up many a hobby along
 ### The choice
 
 The two things I am constantly excited about are Games in general and Japanese Culture, more specifically Anime. I have decided to turn the vices of binge-watching/playing anime/games into useful hobbies and even life paths. **My dream** as a computer enthusiast is to one day join a big game Development company and contribute in building the ultimate gaming experience for fans around the world.
+
+----------------------------------
+
+### What matters and what doesn't?
+
+- Work that does not bring me any closer towards making my dreams come true is a waste of my time.
+- Friendships which do not enrich me and better me as a person whenever I meet with them are a waste of both of our time.
+
+### My choices
+
+- My daily work has to enrich me as experience useful for my long-term career goals.
+- My circle of close friends must include successful persons with a similar philosophy, and every conversation we have must bring value to the table.
