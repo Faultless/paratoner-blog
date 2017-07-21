@@ -26,3 +26,8 @@ There is no doubt in my mind that my current philosophy/approach to life is far 
 I'm glad you asked! In the past, I've fallen into the illusion that I can change multiple major bad aspects of my life at the same time and in a minimal amount of time. After all, how hard is it to just focus on your tasks and follow a strict schedule 18 hours a day for the next 10 years? 
 
 **_It's not that simple._**
+
+Change is progressive, and humans resist change by nature.
+In order to turn change into an enjoyable experience, one has to go the **routine building route**:
+
+- 
